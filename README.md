@@ -8,7 +8,9 @@
 	- Java
 		- The main technology which was used in the given task was Java. Java Collection Map was used as a data structure in order to built the memory cache.
 	- Junit
-		- Junit testing was used inorder to test the functionalities of the project. 
+		- Junit testing was used inorder to test the functionalities of the project.
+	- Maven
+		- Used for build entire project.
 
 - **Flow diagrams**
 
