@@ -2,4 +2,4 @@
 
 High-level architecture diagram 
 
-![alt text](https://drive.google.com/file/d/1TicVepQ5AFAHdQkIbFTbqG7AeR9g_P4O/view?usp=sharing)
+![alt text](https://github.com/Randika-Isuru/in-memory-cache/blob/master/images/Application%20Cache%20Architecture%20Diagram.png)
